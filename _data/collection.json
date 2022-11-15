@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Critical Annotation: R. Murray Schafer's \"Soundscapes of Canada\"" ] },
+    "summary": { "en": [ "This excerpt comes from part two of 10 in R. Murray Schafer's series \"Soundscapes of Canada.\" The series was recorded and produced by Schafer and other members of the World Soundscape Project for CBC Radio's documentary program Ideas in 1974. Here, I annotate the beginning of the program, in which Schafer instructs listeners in an active listening practice he calls \"ear cleaning.\"" ] },
+    "items": [
+    ]
+}
