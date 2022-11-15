@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
+    "homepage": [
+      {
+        "id": "http://1443.sydneyplus.com/final/Portal/Music-Library.aspx?component=AAEY&amp;record=b7f6ea34-24c5-4c14-b5cd-c08918e78f28&amp;lang=en-CA",
+        "type": "Text",
+        "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 644.0,
+        "items": [
+          {
+            "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://drive.google.com/file/d/1Y11UhdDU10zVW1ywdWVPmVGzRlKXZIaL/view?usp=share_link",
+                    "duration": 644.0
+                },
+                "target": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
