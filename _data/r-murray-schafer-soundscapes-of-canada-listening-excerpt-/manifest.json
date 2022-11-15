@@ -16,6 +16,16 @@
         "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/r-murray-schafer-soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 644.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/annotations/r-murray-schafer-soundscapes-of-canada-listening-excerpt--canvas-1-1.json",
+            "label": {
+              "none": ["1"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/r-murray-schafer-soundscapes-of-canada-listening-excerpt-/canvas-1/paintings",

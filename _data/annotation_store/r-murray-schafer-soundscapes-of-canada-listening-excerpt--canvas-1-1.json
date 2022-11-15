@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/annotations/r-murray-schafer-soundscapes-of-canada-listening-excerpt--canvas-1-1.json",
+  "type": "AnnotationPage",
+  "label": "1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "r-murray-schafer-soundscapes-of-canada-listening-excerpt--canvas-1-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "test",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://brenmccracken.github.io/mccracken-engl801-annotation/r-murray-schafer-soundscapes-of-canada-listening-excerpt-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,15"
+        }
+      }
+    }
+  ]
+}
