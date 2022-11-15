@@ -3,14 +3,6 @@
     "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
-    "homepage": [
-      {
-        "id": "http://1443.sydneyplus.com/final/Portal/Music-Library.aspx?component=AAEY&amp;amp;record=b7f6ea34-24c5-4c14-b5cd-c08918e78f28&amp;amp;lang=en-CA",
-        "type": "Text",
-        "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
-        "format": "text/html"
-      }
-    ],
     "items": [
       {
         "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/soundscapes-of-canada-episode-2-excerpt-/canvas-1/canvas",
