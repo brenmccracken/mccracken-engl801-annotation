@@ -5,7 +5,7 @@
     "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
     "homepage": [
       {
-        "id": "http://1443.sydneyplus.com/final/Portal/Music-Library.aspx?component=AAEY&amp;amp;amp;amp;record=b7f6ea34-24c5-4c14-b5cd-c08918e78f28&amp;amp;amp;amp;lang=en-CA",
+        "id": "http://1443.sydneyplus.com/final/Portal/Music-Library.aspx?component=AAEY&amp;amp;amp;amp;amp;record=b7f6ea34-24c5-4c14-b5cd-c08918e78f28&amp;amp;amp;amp;amp;lang=en-CA",
         "type": "Text",
         "label": { "en": [ "Soundscapes of Canada - Episode 2 - Excerpt " ] },
         "format": "text/html"
@@ -23,6 +23,14 @@
             "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/annotations/soundscapes-of-canada-episode-2-excerpt--canvas-1-.json",
             "label": {
               "none": [""]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://brenmccracken.github.io/mccracken-engl801-annotation/annotations/soundscapes-of-canada-episode-2-excerpt--canvas-1-1.json",
+            "label": {
+              "none": ["1"]
             }
           }
         ],
